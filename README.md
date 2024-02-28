@@ -1,4 +1,4 @@
-## Deplued Site :- https://little-lemon-meta-ui.netlify.app/
+## Deployed Site :- https://little-lemon-meta-ui.netlify.app/
 
 # Little Lemon - Reustorant & Booking
 
