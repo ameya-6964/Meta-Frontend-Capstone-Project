@@ -7,7 +7,6 @@
   - [Wireframe](#wireframe)
   - [UI Design](#ui-design)
 - [Features](#features)
-- [Live Demo](#live-demo)
 - [Screenshots](#screenshots)
 - [Technologies](#technologies)
 - [Todos](#todos)
